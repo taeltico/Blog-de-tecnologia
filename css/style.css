@@ -1,0 +1,143 @@
+/* limpar formatação padrão*/
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+/* formatar menu*/
+a{
+     text-decoration: none;
+
+}
+
+a: link, a: visited {
+    color:fff;
+    padding: 8px 12px;
+
+} 
+
+a: hover{
+    color:f7b600;
+    background: #fff;
+}
+
+/*Layout*/
+
+.preto{
+    color: black;
+    
+}
+nav{
+    background-color: black;
+}
+
+#Cabecalho{
+    background-color: rgb(8, 8, 245);
+    padding: 3em;
+    text-align: center;
+
+}
+
+#AreaPrincipal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+#Areapostagens{
+    width: 665px;
+    float: left;
+    padding: 3px;
+    
+}
+
+#AreaLateral{
+    width: 245px;
+    float: right;
+
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 1.8em;
+    background: #ccc;
+}
+#logo{  
+    padding: 2em;
+
+}
+
+#menu{
+    padding: 1.55em;
+    
+
+}
+   
+h1{
+    color:rgb(255, 136, 0);
+    font-size: 2.5em;
+}
+
+/*Grid*/
+
+.col-1 {
+    width: 8.333%;
+}
+
+.col-2 {
+    width: 16.666%;
+}
+
+.col-3 {
+    width: 24.99%;
+}
+
+.col-4 {
+    width: 33.32%;
+}
+
+.col-5 {
+    width: 41.665%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.331%;
+}
+
+.col-8 {
+    width:66.664%;
+    
+}
+
+.col-9 {
+    width: 74.997%;
+   
+}
+
+.col-10 {
+    width: 83.33%;
+    
+}
+
+.col-11 {
+    width: 91.663%;
+    
+}
+
+.col-12 {
+    width: 100%;
+}
+
+
+/*links*/
