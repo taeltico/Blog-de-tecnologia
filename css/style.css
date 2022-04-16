@@ -22,7 +22,9 @@ a: link, a: visited {
     padding: 8px 12px;
 
 } 
-
+.teto{
+    padding: 2em;
+}
 a: hover{
     color:f7b600;
     background: #fff;
